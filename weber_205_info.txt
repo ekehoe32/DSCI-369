@@ -1,0 +1,132 @@
+Last Update:  Jan 17, 2020
+
+Requesting Class Accounts for Weber 205
+
+**
+
+If you need a class account for Weber 205, please mail me with
+the following info:
+
+1) class name (e.g. st204 or m161)
+
+2) the sections you want accounts for; each section has its
+own username and password.  If there is only one section,
+skip this step.
+
+3) if you need a class directory to put things in
+
+(A class directory is for instructors to drop files into so that
+students can access them.  Instructors have full access to the
+directory when they log in as themselves, but students have only
+read-only access via the class account.  If you request a class
+directory, please examine the directory to make sure there isn't
+anything from past semesters you don't want the students to see.)
+
+For large sections, the coordinator usually mails me and then s/he
+distributes the passwords to the instructors for each individual
+section.
+
+Class accounts are disabled on the Friday of Finals Week at noon.
+If your class account needs to be active past this date, please
+mail me far in advance so that I do not turn it off.  The EOL for
+any extension is the Tuesday after Finals Week at noon (when grades
+are due).  Accounts will be turned off immediately in the case of
+hacking, a security problem or the like.  To date, I have not had to
+do this to any class account for these reasons.
+
+**
+
+Notes (there are 12):
+
+1) The FAQ is here:  
+  
+https://www.stat.colostate.edu/~zube/lab.html
+
+2) I will distribute the passwords to you in person.
+
+3) The best way to distribute the password to your students is to
+write it on the board, wait a short time and then erase it.  Do not
+leave passwords on the board nor distribute passwords via email.
+
+2) If at all possible, please test the passwords before you give them
+out to your students.
+
+3) Please tell your students:
+
+a) to log off when they are done using the computers
+
+b) to not to give the class password to anyone and to not be careless
+with it.  If I find a password written down somewhere in public (on a
+whiteboard, on a piece of paper I find in the lab, etc.), I'll have
+no choice but to change the password.  I do this about five times a
+semester and is a grand bother for all involved.
+
+c) that the lab closes promptly at 4:45pm or so on Fridays (mod a
+small bit of overrun time for any Friday 4pm class).  It also closes
+at 4:45pm during the first week and finals week.  This is during
+the semester.  During the summer, the lab isn't usually open but
+it will be opened as needed.
+
+4) If you decide to put things in the class directory for your
+students to use, please *copy* the files.  Do not *move* the files
+or your students will probably be unable to access them.
+
+5) If you are placing files in your class directory (g:\somedir), you
+should tell your students to copy whatever they need from g:\somedir
+to the local machine, such as under c:\temp\whatever or somewhere on
+the desktop.
+
+6) First logins on the machines are slow.  Please tell your students
+to be patient.
+
+7) Please do not make assignments due at 5pm on any day the lab closes
+at 4:45pm if your students will be using the lab for the assignment.
+This means any Friday and any day during the first week and Finals
+week.  Closing the lab is one of my least happy tasks; students do not
+respond to gentle entreaties or 15-minute warnings, only, apparently,
+to threats.  The entire unpleasantness can be avoided by making such
+assignments due at 4pm or 4:30pm.
+
+8) Office 2016 is in the lab.  If you find that old files are
+unable to be read, it is because of the new restrictions Office 
+places on opening files.  Here are two things that might help.
+
+First, in whatever program you are working on (Word, Excel, etc.), 
+follow this twisty little path:
+
+Open Other {Whatever} -> Options -> File -> Trust Center -> Trust
+Center Settings.
+
+Next, choose Trusted Locations and check the box for "Allow Trusted
+Locations on My Network". This should do the trick for network files,
+but sometimes it doesn't. When it doesn't, follow the bit below.
+
+You can also choose Protected View from under Trust Center Settings
+and it will show that it's trying to open files as read-only (that's
+Protected View) for internet-downloaded files, for files in unsafe
+places and for outlook attachments. Uncheck whatever is applicable
+to your particular problem.
+
+Alas, you have to do this sequence for each application, so once for
+Word, once for Excel, etc. Sigh.
+
+9) If you wish to use the projector with a laptop and it has an HDMI
+port, please use the green HDMI cable.  If you have only a VGA port,
+unscrew the VGA cable from the wall and use the short VGA cable that
+lives on the podium.  Please reconnect the podium VGA cable when you
+are done.
+
+10) There are printed instructions on the podium if the projector
+does not display what is on the computer screen.  If you flip the
+instructions over, you'll see the instructions for how to make
+the projector image larger.
+
+11) There is an automatic logout after 30 minutes of inactivity time
+that actually seems to work some of the time.
+
+12) When logging into the machine, there is no DOMAIN box.  By default,
+the machines log into the MATHSTAT4 domain.  If you need to log
+into the STAT4 or MATH4 domain, your must use STAT4\username or
+MATH4\username for the username.
+
+If you have any questions, please email Zube@stat.colostate.edu.
